@@ -17,10 +17,23 @@ O projeto segue uma arquitetura em camadas com os seguintes componentes:
 - Abstração do acesso a dados por meio de repositórios.
 - Arquivos de configuração para ajustes específicos de ambiente.
 
+  # Kraken Backend
+  
 ## Começando
 1. Abra o arquivo `Kraken.sln` no Visual Studio 2022 ou superior.
 2. Configure as definições necessárias do ambiente no arquivo `appsettings.json`.
 3. Compile e execute a solução.
+
+   # Kraken Frontend
+
+## Começando
+
+Siga os passos abaixo para configurar e executar o projeto:
+
+1. Certifique-se de ter o Node.js instalado na versão recomendada no arquivo `package.json`.
+2. Instale as dependências do projeto executando o comando:
+   ```bash
+   npm install
 
 ## Tecnologias Utilizadas
 - **.NET Core 8**: Um framework moderno e de alta performance.
