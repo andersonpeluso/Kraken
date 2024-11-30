@@ -32,3 +32,11 @@ O projeto segue uma arquitetura em camadas com os seguintes componentes:
 - `Kraken.Application`: Lógica de negócio ao nível da aplicação.
 - `Kraken.Core`: Entidades de domínio e contratos.
 - `Kraken.Infrastructure`: Implementações específicas de infraestrutura.
+
+![- Não autenticado](/imagens/nao-autenticado.png)
+
+![- Gerado o token (JWT)](/imagens/token.png)
+
+![- Autenticado e listando os produtos](/imagens/autenticado.png)
+
+![- Cadastrando o produto](/imagens/grava-produto.png)
