@@ -47,9 +47,19 @@ Siga os passos abaixo para configurar e executar o projeto:
 - `Kraken.Infrastructure`: Implementações específicas de infraestrutura.
 
 ![- Não autenticado](/imagens/nao-autenticado.png)
+*Figura 1: Tela de do usuário não autenticado.*
 
 ![- Gerado o token (JWT)](/imagens/token.png)
+*Figura 2: Autenticando.*
 
 ![- Autenticado e listando os produtos](/imagens/autenticado.png)
+*Figura 3: Autenticado.*
 
-![- Cadastrando o produto](/imagens/grava-produto.png)
+![- Gravando o produto](/imagens/grava-produto.png)
+*Figura 4: Produto gravado.*
+
+![- Tela de login](/imagens/tela-login.jpg)
+*Figura 5: Tela de login.*
+
+![- Cadastrando o produto](/imagens/listage-produtos.jpg)
+*Figura 6: Tela de listagem de produto.*
